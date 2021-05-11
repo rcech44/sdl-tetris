@@ -1,4 +1,4 @@
-# Tetris
+# Blockris
 
 I tried to make a "tetris-like" game. All assets I used were only used for personal purposes. Game is made in C using SDL library.
 
